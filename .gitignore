@@ -1,0 +1,6 @@
+/target/
+/.idea/
+/project/
+/.bsp/
+myotherdirectorywhichshouldnotbekepttrackof
+myfile_withpasswordswhichIwanttoexclude
