@@ -3,4 +3,5 @@ object MyApp extends App {
   println("New instructions")
   println("more instructions")
   println("again more instructions")
+  println(2+2)
 }
